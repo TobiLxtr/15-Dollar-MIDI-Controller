@@ -8,7 +8,7 @@ The case was 3D printed and it's supposed to look like a cat, since my giftee me
 
 ## Code / Settings
 
-In the Arduino *.ino file you can edit the pin connections, MIDI CC controller numbers, quantaty of poteniometers and more.
+In the Arduino *.ino file you can edit the pin connections, MIDI CC controller numbers, quantity of poteniometers and more.
 
 ## Connections
 
