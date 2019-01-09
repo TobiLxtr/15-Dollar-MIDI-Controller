@@ -1,4 +1,4 @@
-# 15$ MIDI Controller
+# 15$ Arduino MIDI Controller
 
 ![Image of the controller](img/front.jpg?raw=true)
 
